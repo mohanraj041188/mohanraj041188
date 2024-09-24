@@ -4,11 +4,11 @@
 </h2>
 
 <p align="center">
-  <a href="https://github.com/mohanraj0411"><img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20Developer;React%20%7C%20Vue%20Specialist;JavaScript%20Enthusiast;AWS%20Certified;Design%20Expert;Always%20Learning%20New%20Things&center=true&width=480&height=45"></a>
+  <a href="https://github.com/mohanraj041188"><img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20Developer;React%20%7C%20Vue%20Specialist;JavaScript%20Enthusiast;AWS%20Certified;Design%20Expert;Always%20Learning%20New%20Things&center=true&width=480&height=45"></a>
 </p>
 
-<a href="https://komarev.com/ghpvc/?username=mohanraj0411">
-  <img align="right" src="https://komarev.com/ghpvc/?username=mohanraj0411&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+<a href="https://komarev.com/ghpvc/?username=mohanraj041188">
+  <img align="right" src="https://komarev.com/ghpvc/?username=mohanraj041188&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
 [![wakatime](https://wakatime.com/badge/user/yourwakatimeid.svg)](https://wakatime.com/@yourwakatimeid)
