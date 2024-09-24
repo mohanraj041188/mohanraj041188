@@ -11,7 +11,7 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=mohanraj041188&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
-[![wakatime](https://wakatime.com/badge/user/yourwakatimeid.svg)](https://wakatime.com/@yourwakatimeid)
+<!-- [![wakatime](https://wakatime.com/badge/user/yourwakatimeid.svg)](https://wakatime.com/@yourwakatimeid) -->
 
 <h3 align="center">
   <samp>&gt; Hey There!, I am
